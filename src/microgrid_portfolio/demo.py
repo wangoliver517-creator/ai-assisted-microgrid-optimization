@@ -132,4 +132,4 @@ def main(output_dir: Path) -> None:
     )
     save_plot(data, output_dir / "demo_dispatch.svg")
     print(json.dumps(summary, ensure_ascii=False, indent=2))
-    print(f"Artifacts written to: {output_dir}")\n
+    print(f"Artifacts written to: {output_dir}")

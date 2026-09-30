@@ -46,4 +46,4 @@ def cash_bill(
         "cancellation_penalty": cancellation,
         "emergency_purchase": emergency_cost,
         "total": normal + increase + cancellation + emergency_cost,
-    }\n
+    }

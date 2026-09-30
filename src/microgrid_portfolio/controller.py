@@ -118,4 +118,4 @@ def rollout(
         result = step(state, load, pv, contract, target, battery)
         results.append(result)
         state = result["soc_end"]
-    return results\n
+    return results

@@ -9,4 +9,4 @@ from microgrid_portfolio.demo import main
 
 
 if __name__ == "__main__":
-    main(ROOT / "artifacts")\n
+    main(ROOT / "artifacts")

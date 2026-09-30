@@ -8,4 +8,4 @@ build/
 artifacts/*.png
 artifacts/*.svg
 artifacts/*.json
-!artifacts/.gitkeep\n
+!artifacts/.gitkeep

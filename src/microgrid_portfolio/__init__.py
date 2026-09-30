@@ -3,4 +3,4 @@
 from .billing import BillingRates, cash_bill
 from .controller import Battery, rollout, step
 
-__all__ = ["Battery", "BillingRates", "cash_bill", "rollout", "step"]\n
+__all__ = ["Battery", "BillingRates", "cash_bill", "rollout", "step"]
